@@ -28,3 +28,12 @@
 
 ## About me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gus1043&show_icons=true&theme=radical)
+
+### Work Experience & Award
+```
+(22.06-22.12) 명지대학교 UXM연구실 
+(2.0-2.0)
+(2.0-2.0)
+(2.0-2.0) 
+```
+	
