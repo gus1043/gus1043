@@ -11,23 +11,11 @@
 </div>
 
 <h3>Contact</h3>
-  <a href="https://anna-in-workplace.tistory.com/">
-  	<img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a> 	
-  
-  <a href="mailto:gus1043@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gus1043@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/jihyeon-choi-655b86296/">
-    <img 
-        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyejin-won-0767971b7/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
+<a href="https://www.instagram.com/zix2_lunarmill/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+<a href="mailto:gus1043@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gus1043@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://www.linkedin.com/in/jihyeon-choi-655b86296/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyejin-won-0767971b7/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 </div>
 
