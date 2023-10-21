@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&&text=JiHyeon%27s%20GitHub&fontSize=70&fontAlignY=34)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgus1043&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
 <h3> Hi there 👋 </h3>
 <h5>Hello! I am a student developer on an ever-evolving journey in the world of coding.</br>
 This space is where I document my growth and share the adventure. </br>
@@ -11,6 +9,7 @@ I am working tirelessly to become a better programmer than I was when I started.
 Please join me on this journey of continuous improvement! 🚀 </h5>
 
 <h3>Contact</h3>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgus1043&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></br>
 <a href="https://www.instagram.com/zix2_lunarmill/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 <a href="mailto:gus1043@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gus1043@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
