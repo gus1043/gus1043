@@ -2,13 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&&text=JiHyeon%27s%20GitHub&fontSize=70&fontAlignY=34)
 
-<div align="center">
-  <h3> Hi there 👋 </h3>
-  <h5>Hello! I am a student developer on an ever-evolving journey in the world of coding.</br>
-    This space is where I document my growth and share the adventure. </br>
-    I am working tirelessly to become a better programmer than I was when I started.</br>
-    Please join me on this journey of continuous improvement! 🚀 </h5>
-</div>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgus1043&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+<h3> Hi there 👋 </h3>
+<h5>Hello! I am a student developer on an ever-evolving journey in the world of coding.</br>
+This space is where I document my growth and share the adventure. </br>
+I am working tirelessly to become a better programmer than I was when I started.</br>
+Please join me on this journey of continuous improvement! 🚀 </h5>
 
 <h3>Contact</h3>
 <a href="https://www.instagram.com/zix2_lunarmill/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
@@ -56,7 +56,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </br></br>
 
 ### About ME
-|Github Stats|Top Langs|
+| GitHub Stats | Top Langs |
 |:--:|:--:|
-|![Jihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gus1043&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus1043&layout=compact&theme=tokyonight)|
-
+| <img src="https://github-readme-stats.vercel.app/api?username=gus1043&show_icons=true&theme=radical" height="200px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus1043&layout=compact&theme=tokyonight" height="200px"/> |
