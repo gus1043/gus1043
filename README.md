@@ -8,19 +8,6 @@
     Please join me on this journey of continuous improvement! 🚀 </h5>
 </div>
 
-<!--
-**gus1043/gus1043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Skills & Studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
@@ -31,9 +18,11 @@
 
 ### Work Experience & Award
 ```
-(22.06-22.12) 명지대학교 UXM연구실 
-(2.0-2.0)
-(2.0-2.0)
-(2.0-2.0) 
+(22.06-22.12) 명지대학교 데이터테크놀로지 UX Media Lab 학부연구생
+(22.06-22.12) 블록체인을 활용한 음원거래 플랫폼 FE 개발 
+(23.02-23.11) 한이음 ChatBot을 활용한 스마트홈 IoT제어 개발( )
+(23.06-23.07) OpenAI롤 활용한 그림책 어플리케이션, ImageTailer 개발 
+(23.07-23.08) WFK IT봉사단 대상(NIA 원장상)
+(23.07-23.09) 블록체인을 활용한 기부 어플리케이션, MJDonor FE 개발
 ```
 	
