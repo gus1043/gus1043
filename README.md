@@ -10,6 +10,7 @@ Please join me on this journey of continuous improvement! 🚀 </h5>
 
 <h3>Contact</h3>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgus1043&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></br>
+<a href="https://zix2-lunarmill.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 <a href="https://www.instagram.com/zix2_lunarmill/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 <a href="mailto:gus1043@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gus1043@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
