@@ -30,7 +30,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 (23.06-23.07) OpenAI를 활용한 그림책 어플리케이션, ImageTailer : Full-Stack 개발
 (23.07-23.08) 월드프렌즈코리아 IT봉사단(대상:NIA 원장상)
 (23.07-23.09) 블록체인을 활용한 기부 어플리케이션, MJDonor : Front-End 개발
-(23.02-23.11) 한이음 ChatBot을 활용한 스마트홈 IoT제어(  상) : Front-End 개발, NLP 분석
+(23.02-23.11) 한이음 ChatBot을 활용한 스마트홈 IoT제어(대상:과학기술부장관상)
+ 	       :Front-End 개발(메타포트 메타태그 구현), Google NLP/Translate API구현 및 연결
 ```
 
 ### Language
