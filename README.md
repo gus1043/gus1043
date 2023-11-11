@@ -31,7 +31,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 (23.07-23.08) 월드프렌즈코리아 IT봉사단(대상:NIA 원장상)
 (23.07-23.09) 블록체인을 활용한 기부 어플리케이션, MJDonor : Front-End 개발
 (23.02-23.11) 한이음 ChatBot을 활용한 스마트홈 IoT제어(대상:과학기술정보통신부장관상)
- 	       :Front-End 개발(메타포트 메타태그 구현), Google NLP/Translate API구현 및 연결
+ 	       :Front-End 개발(웹 대시보드 및 메타포트 메타태그 구현), Google NLP/Translate API구현 및 연결
 ```
 
 ### Language
