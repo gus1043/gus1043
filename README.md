@@ -21,17 +21,18 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ## 
 
-### Work Experience & Award
+### Programming Experience & Award
 ```
 (21.07-21.08) Voice성남 서포터즈:판교 ICT기업 인터뷰 및 기업소개콘텐츠 제작
 (22.06-22.12) 명지대학교 데이터테크놀로지 UX Media Lab 학부연구생
 (22.06-22.12) 블록체인을 활용한 음원거래 플랫폼 : Front-End 개발 
 (23.04-23.05) 명지 C.C 창의·융합 아이디어 공모전:교내 시설 예약 통합 어플리케이션(최우수상)
-(23.06-23.07) OpenAI를 활용한 그림책 어플리케이션, ImageTailer : Full-Stack 개발
+(23.06-23.07) OpenAI를 활용한 그림책 어플리케이션, ImageTailer : Full-Stack 개발(프로젝트 1등)
 (23.07-23.08) 월드프렌즈코리아 IT봉사단(대상:NIA 원장상)
-(23.07-23.09) 블록체인을 활용한 기부 어플리케이션, MJDonor : Front-End 개발
-(23.02-23.11) 한이음 ChatBot을 활용한 스마트홈 IoT제어(대상:과학기술정보통신부장관상)
+(23.07-23.09) 블록체인을 활용한 기부 어플리케이션, MJDonor : Front-End 개발 (명지대학교 SW경진대회 본선진출)
+(23.04-23.11) 한이음 ChatBot을 활용한 스마트홈 IoT제어(대상:과학기술정보통신부장관상)
  	       :Front-End 개발(웹 대시보드 및 Metterport Matter tag 개발), Google NLP/Translate API구현 및 연결
+(23.11-23.12) 하둡에코시스템을 활용한 당근 거래 최적 장소 위치 선정(프로젝트 1등)
 ```
 
 ### Language
