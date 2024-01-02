@@ -28,7 +28,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 (22.06-22.12) 블록체인을 활용한 음원거래 플랫폼 : Front-End 개발 
 (23.04-23.05) 명지 C.C 창의·융합 아이디어 공모전:교내 시설 예약 통합 어플리케이션(최우수상)
 (23.06-23.07) OpenAI를 활용한 그림책 어플리케이션, ImageTailer : Full-Stack 개발(프로젝트 1등)
-(23.07-23.08) 월드프렌즈코리아 IT봉사단(대상:NIA 원장상)
+(23.07-23.08) 월드프렌즈코리아 ICT봉사단(대상:NIA 원장상)
 (23.07-23.09) 블록체인을 활용한 기부 어플리케이션, MJDonor : Front-End 개발 (명지대학교 SW경진대회 본선진출)
 (23.04-23.11) 한이음 ChatBot을 활용한 스마트홈 IoT제어(대상:과학기술정보통신부장관상)
  	       :Front-End 개발(웹 대시보드 및 Metterport Matter tag 개발), Google NLP/Translate API구현 및 연결
