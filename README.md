@@ -17,6 +17,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.linkedin.com/in/jihyeon-choi-655b86296/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyejin-won-0767971b7/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<h3>Portfolio</h3>
+<a href="https://galvanized-robe-267.notion.site/Rising-Star-of-Android-Development-Choi-JiHyeon-s-Portfolio-0b664e30ca024b89a8c5f2ff68d1d018" target="_blank">Click to Visit My Portfolio</a>
+
 </div>
 
 ## 
