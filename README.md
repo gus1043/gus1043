@@ -38,6 +38,12 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 (23.11-23.12) 하둡에코시스템을 활용한 당근 거래 최적 장소 위치 선정(프로젝트 1등)
 ```
 
+### Certificate
+```
+(23.12 취득)   SQLD (한국데이터산업진흥원)
+(24.03 취득)   ADsP (한국데이터산업진흥원)
+```
+
 ### Language
 <div>
 	<img alt="Html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white"/>
