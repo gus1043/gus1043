@@ -39,10 +39,11 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ```
 
 ### Certificate
-```
-(23.12 취득)   SQLD (한국데이터산업진흥원)
-(24.03 취득)   ADsP (한국데이터산업진흥원)
-```
+|자격명|발급 기관|취득일자|
+|:--:|:--:|:--:|
+|  SQLD  |  한국데이터산업진흥원  |  2023.12  |
+|  ADsP  |  한국데이터산업진흥원  |  2024.03  |
+
 
 ### Language
 <div>
