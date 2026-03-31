@@ -41,8 +41,3 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 - SQLD, ADsP, 빅데이터 분석기사 자격증  
 
 <br>
-
-## 📊 GitHub Stats
-| Stats | Top Languages |
-|:--:|:--:|
-| <img src="https://github-readme-stats.vercel.app/api?username=gus1043&show_icons=true&theme=radical" height="200px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus1043&layout=compact&theme=tokyonight" height="200px"/> |
